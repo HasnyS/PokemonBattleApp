@@ -1,5 +1,3 @@
-# React JS Turn Based-Battle Game Tutorial 
+# React JS Turn Based Battle Game
 
-## Tutorial by PortEXE titled "Coding a Turn-Based Battle Game With React Only
-
-### Original MegaMan vs Samus code is by PortEXE
+### Inspired by Tutorial for MegaMan vs Samus by PortEXE
