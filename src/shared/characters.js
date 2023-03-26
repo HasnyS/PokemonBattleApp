@@ -1,3 +1,4 @@
+
 export const playerStats = {
     level: 44,
     maxHealth: 177,
@@ -11,7 +12,7 @@ export const playerStats = {
 };
 
 export const opponentStats = {
-    level: 44,
+    level: 48,
     name: 'Charizard',
     maxHealth: 188,
     img: './assets/zard.webp',

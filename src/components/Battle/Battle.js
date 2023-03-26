@@ -49,7 +49,7 @@ export const Battle = ({ onGameEnd }) => {
         </div>
 
         <div className={styles.characters}>
-            <div className={styles.gameHeader}>
+         <div className={styles.gameHeader}>
                 {playerStats.name} vs {opponentStats.name}
             </div>
 

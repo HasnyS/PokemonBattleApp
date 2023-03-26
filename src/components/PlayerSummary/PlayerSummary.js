@@ -1,8 +1,8 @@
 import styles from './styles.module.css';
 import { Bar } from '../Bar';
 
-const red= '#821200';
-const blue= '#1953cb'
+const red= '#5c8808';
+const blue= '#cb5307'
 
 
 export const PlayerSummary = ({ main, name, level, health, maxHealth }) => {

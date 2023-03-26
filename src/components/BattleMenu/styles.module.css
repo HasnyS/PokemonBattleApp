@@ -32,3 +32,9 @@
 .option:hover {
     background: #fd9401;
 }
+
+.playerSprite {
+    width: 200px;
+    height: 200px;
+    margin-right: 200px;
+}

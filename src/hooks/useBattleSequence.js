@@ -37,7 +37,7 @@ export const useBattleSequence = sequence => {
 
                         (async () => {
                             setInSequence(true);
-                            setAnnouncerMessage(`${attacker.name} has chosen to attack!`);
+                            setAnnouncerMessage(`${attacker.name} used Tackle!`);
                             await wait(1000);
 
                             turn === 0 
@@ -81,7 +81,7 @@ export const useBattleSequence = sequence => {
 
                         (async () => {
                             setInSequence(true);
-                            setAnnouncerMessage(`${attacker.name} has cast a spell!`);
+                            setAnnouncerMessage(`${attacker.name} used Solar Beam!`);
 
                             await wait(1000);
 
