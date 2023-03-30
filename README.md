@@ -3,6 +3,6 @@
 ### Inspired by Tutorial for MegaMan vs Samus by PortEXE
 
 
-##ScreenShot
+## ScreenShot
 
 ![Screenshot](/public/assets/v1screen.png)
